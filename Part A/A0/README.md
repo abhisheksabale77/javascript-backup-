@@ -1,4 +1,4 @@
-# A0 — Setup &amp; Tools
+# A0 — Setup & Tools
 
 **Time:** 3–5 days · **Priority:** `[B]` backend-critical
 
