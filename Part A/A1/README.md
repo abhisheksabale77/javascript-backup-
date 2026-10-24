@@ -13,6 +13,13 @@
 - [ ] Control flow: `if/else`, `switch`, `try/catch` intro
 - [ ] Loops: `for`, `while`, `do...while`, `for...in`, `for...of`, `break`/`continue`, labels
 
+## Examples
+13 runnable files, numbered to match `NOTES.md`:
+```bash
+node examples\01-statements-expressions.js
+# ... up to 13-loops.js
+```
+
 ## Project
 Build three small programs:
 1. **CLI calculator** — read two numbers and an operator, print the result, handle bad input.

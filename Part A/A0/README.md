@@ -14,6 +14,13 @@
 - [ ] Read stack traces
 - [ ] `console.log` / `warn` / `error` / `table`
 
+## Examples
+Run from the module folder:
+```bash
+node examples\01-console-methods.js
+node examples\02-stack-trace.js
+```
+
 ## Project
 
 Debug 5 broken scripts (wrong variable names, missing brackets, bad logic, async mistake, scope mistake). Fix each one and explain the error out loud.

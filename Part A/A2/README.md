@@ -1,4 +1,4 @@
-# A2 — Functions &amp; Scope
+# A2 — Functions & Scope
 
 **Time:** 2 weeks · **Priority:** `[B]` backend-critical
 
@@ -14,6 +14,13 @@
 - [ ] Higher-order functions, callbacks
 - [ ] Currying, partial application, `compose`, `pipe`
 - [ ] `this`: 4 binding rules, arrow `this`, `call`/`apply`/`bind`
+
+## Examples
+15 runnable files, numbered to match `NOTES.md`:
+```bash
+node examples\01-function-types.js
+# ... up to 15-arrow-this.js
+```
 
 ## Project
 
