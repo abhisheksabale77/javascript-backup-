@@ -1,8 +1,9 @@
-# A2 — Functions & Scope
+# A2 — Functions &amp; Scope
 
 **Time:** 2 weeks · **Priority:** `[B]` backend-critical
 
 ## Topics
+
 - [ ] Declarations, expressions, arrow functions; hoisting differences
 - [ ] Parameters: default, rest, `arguments`, destructured params
 - [ ] Return values, early returns, pure vs impure functions
@@ -15,7 +16,9 @@
 - [ ] `this`: 4 binding rules, arrow `this`, `call`/`apply`/`bind`
 
 ## Project
+
 Build a small utility library from scratch:
+
 1. `debounce(fn, ms)` — run only after calls stop for `ms`.
 2. `throttle(fn, ms)` — run at most once every `ms`.
 3. `once(fn)` — run only the first time.
@@ -26,8 +29,10 @@ Build a small utility library from scratch:
 Write a quick test or demo call for each utility.
 
 ## Done when
+
 - [ ] You can explain a closure with your own example
 - [ ] You can predict `this` for regular functions and arrows
 - [ ] You can write a higher-order function without help
 - [ ] All 6 utilities work without copy-pasting an implementation
 - [ ] You can explain pure vs impure with side-effect examples
+
